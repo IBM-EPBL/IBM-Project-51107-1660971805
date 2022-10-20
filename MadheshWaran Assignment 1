@@ -1,0 +1,28 @@
+s.split()
+print("The diameter of Earth is {0} kilometers".format(diameter))
+d['k1'][3]['tricky'][3]['target'][3]
+array=np.zeros(10)
+print(array)
+array=np.ones(10)*5
+print(array)
+import numpy as np
+array = np.arange(20,35,2)
+print(array)
+import numpy as np
+x =  np.arange(0, 9).reshape(3,3)
+print(x)
+import numpy as np
+a = np.array([1, 2, 3])
+b = np.array([4, 5, 6])
+np.concatenate((a,b),axis=0)
+import pandas as pd
+data = [['tom', 10], ['nick', 15], ['juli', 14]]
+df = pd.DataFrame(data, columns=['Name', 'Age'])
+print(df)
+import pandas as pd
+per1 = pd.date_range(start ='1-1-2023', 
+         end ='02-10-2023')
+for val in per1:
+    print(val)
+    df = pd.DataFrame(lists, columns = ['roll_no', 'alpha','reg_no'])
+print(df)
